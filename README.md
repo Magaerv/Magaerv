@@ -38,5 +38,5 @@ Preparing **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
 (exam October 2026).
 
 ## 📫 Reach me
-📍 Córdoba, Argentina · Open to fully-remote roles
+📍 Colonia Tirolesa, Córdoba, Argentina · Open to fully-remote roles
 🔗 [linkedin.com/in/magaerv](https://www.linkedin.com/in/magaerv) · ✉️ magaerv.dev@gmail.com
